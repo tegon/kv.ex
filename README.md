@@ -1,4 +1,4 @@
 # KvUmbrella
 
-**TODO: Add description**
+Key value store application from Elixir's official Mix and OTP guide.
 
